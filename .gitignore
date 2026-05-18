@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Do not ignore directories (needed so Git can find files inside them)
+!*/
+
+# Whitelist specific file extensions
+!*.tex
+!*.bib
+!*.png
+
+# Whitelist essential repo files
+!.gitignore
+!README.md
