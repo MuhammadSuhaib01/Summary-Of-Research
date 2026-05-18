@@ -8,6 +8,8 @@
 !*.tex
 !*.bib
 !*.png
+!*.pdf
+!*.jpg
 
 # Whitelist essential repo files
 !.gitignore
